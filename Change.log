@@ -4,4 +4,4 @@ Change log 1.01 :
 
 Updated altf4.vbs to UplayToSystemTray.vbs
 
-altf4.vbs simply invoked ALT+F4 key-press and at times did not work out as intended. UplayToSystemTray.vbs invokes ALT+F4 only if the Uplay window is visible.
+altf4.vbs simply invoked ALT+F4 key-press and at times did not work out as intended. UplayToSystemTray.vbs now invokes ALT+F4 only if the Uplay window is visible.
