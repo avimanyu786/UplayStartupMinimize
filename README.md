@@ -17,7 +17,7 @@ These scripts basically help you to launch Uplay on startup and minimize it to s
 
 7. You're done! Restart and see it work.
 
-P.S: This method works only if Uplay is on display as a foreground running application after startup. To change the time to take for minimizing it, you can edit the "Uplay.bat" file where time is set in milliseconds. When
+P.S: This method works only if Uplay is on display as a foreground running application after startup. To change the time to take for minimizing it, you can edit the "Uplay.bat" file where time is set in milliseconds. When Uplay updates itself after starting up requiring more time, make sure it doesn't get closed as "altf4.vbs" would still get invoked.
 
 Files:
 1. altf4.vbs - Mimicks keyboard press for ALT+F4 to "close" the Uplay window.
