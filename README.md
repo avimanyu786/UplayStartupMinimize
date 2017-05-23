@@ -6,5 +6,5 @@ Files:
 2. Uplay.bat - Pings an invalid IP with a 30 seconds timeout and then calls altf4.vbs.
 3. Uplay.vbs - Written to hide the command line window in the background while the batch file runs.
 
-I created and tested this myself. Quite happy with using it until this feature is officially supported by Uplay.
-~avimanyu786
+I created and tested this myself. Quite happy with using it until this feature is officially supported by Uplay. Please check the Wiki for complete steps to set it up.
+~avimanyu786(Avimanyu Bandyopadhyay)
