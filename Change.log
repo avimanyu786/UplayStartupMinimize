@@ -8,12 +8,12 @@ Updated altf4.vbs to UplayToSystemTray.vbs
 
 21-04-2018
 
-Change log 1.5 :
+Change log 1.1 :
 
 Created separate files after it stopped working after Uplay's update of its own "Startup on Windows" option. Also created an installation wizard to make the installation process easier.
 
 22-04-2018
 
-Change log 1.5.1 :
+Change log 1.1.1 :
 
 Using another "UplayAltTAB.vbs" to make sure Uplay is the active window (assuming no other windows are displayed on startup).
