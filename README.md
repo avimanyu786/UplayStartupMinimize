@@ -8,7 +8,7 @@ Files:
 2. Uplay.bat - Launches "upc.exe"(Uplay Client) after waiting for 5 seconds of Windows Startup.
 3. MinimizeSysTrayWait.vbs - To launch "MinimizeSysTrayWait.bat" in background.
 4. MinimizeSysTrayWait.bat - Waits for 25 seconds before invoking "UplayAltTAB.vbs" followed by "UplayToSystemTray.vbs", 2 seconds later.
-5. UplayAltTAB.vbs - To make sure Uplay is the active window.
+5. UplayAltTAB.vbs - To make sure Uplay is the active window (assuming no other windows are displayed on startup).
 6. UplayToSystemTray.vbs - Mimics keyboard press for ALT+F4 to "close" it if detected.
 
 I created and tested this myself. Quite happy with using it until this feature is officially supported by Uplay. Please refer to the Wiki for complete steps to set it up.
