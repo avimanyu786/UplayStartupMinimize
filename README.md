@@ -1,4 +1,4 @@
-# UplayStartupMinimize
+# UplayStartupMinimize (USM)
 
 
 To launch Ubisoft game client Uplay on startup and minimize it to system tray(similar to Steam and Origin) as soon as it auto-logins and initializes via Ubisoft servers.
