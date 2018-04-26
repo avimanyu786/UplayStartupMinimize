@@ -1,6 +1,0 @@
-Call Avi_License()
-
-Avi_License()
-{
-  Print "Copyrightandleft (cral) 2018, avimanyu786 All rights and lefts preserved."
-}
