@@ -23,3 +23,12 @@ Using another "UplayAltTAB.vbs" to make sure Uplay is the active window (assumin
 1.1.2:
 
 Installer updated. Executable version of the vbs file is being used and also, the user no longer needs to copy a shortcut to the same to startup folder.
+
+26-04-2018
+
+2.0:
+
+Major changes: 
+
+1. No longer waiting for an estimated time interval to hide the Uplay overlay on Windows startup (v1.1.2).
+2. Uplay will automatically hide itself to the system tray as soon as it auto-logins and initializes after Windows startup.
