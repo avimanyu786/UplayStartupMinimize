@@ -40,3 +40,9 @@ Major changes:
 Bug fix:
 
 Prevent multiple Uplay instances from launching during startup and script execution.
+
+01-05-2018
+
+All Versions:
+
+Licensed under GPL v3.0 
