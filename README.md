@@ -4,9 +4,15 @@ To launch Ubisoft game client Uplay on startup and minimize it to system tray(si
 
 This program assumes you have Uplay installed at: "C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher"
 
+Latest release: https://github.com/avimanyu786/UplayStartupMinimize/releases/latest
+
+Test version: https://github.com/avimanyu786/UplayStartupMinimize/releases/tag/v2.0.2_pre-alpha
+
+All releases: https://github.com/avimanyu786/UplayStartupMinimize/releases
+
 VBS versions available at: https://github.com/avimanyu786/UplayStartupMinimize
 
-This script basically helps you to launch Uplay on startup and minimize it to system tray as soon as it auto-logins and initializes.
+This script basically helps you to launch Uplay on startup and minimize it to system tray as soon as it auto-logins and initializes. USM will always terminate itself once its done its work on startup and is not required to be kept running as a background process.
 
    *In case you have v1.1.2 or v2.0 installed, please uninstall it before proceeding with the v2.0.1 installation.
 
