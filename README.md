@@ -16,7 +16,6 @@ This script basically helps you to launch Uplay on startup and minimize it to sy
 
    *In case you have v1.1.2 or v2.0 installed, please uninstall it before proceeding with the v2.0.1 installation.
 
-
    1. Make sure of the following settings:
 
     a. "Minimize Uplay to system tray when the application window is closed" should be kept enabled in Uplay's settings.
