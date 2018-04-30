@@ -32,3 +32,11 @@ Major changes:
 
 1. No longer waiting for an estimated time interval to hide the Uplay overlay on Windows startup (v1.1.2).
 2. Uplay will automatically hide itself to the system tray as soon as it auto-logins and initializes after Windows startup.
+
+29-04-2018
+
+2.0.1:
+
+Bug fix:
+
+Prevent multiple Uplay instances from launching during startup and script execution.
