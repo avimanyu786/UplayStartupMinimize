@@ -9,6 +9,11 @@
 
 #### **[Download Latest Installer (v2.0.1)](https://github.com/avimanyu786/UplayStartupMinimize/releases/download/v2.0.1/UplayStartupMinimize_v2.0.1_Installer.exe)**
 
+#### **[All Releases](https://github.com/avimanyu786/UplayStartupMinimize/releases)**
+
+#### **[USM Wiki](https://github.com/avimanyu786/UplayStartupMinimize/wiki)** 
+
+
 **If you enjoy USM, please consider [supporting me](https://www.paypal.me/avimanyu786/20) for developing and maintaining this software.**
 
 <p align="center">
