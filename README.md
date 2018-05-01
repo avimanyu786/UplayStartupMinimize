@@ -1,43 +1,34 @@
-# UplayStartupMinimize (USM)
+# UplayStartupMinimize
 
-To launch Ubisoft game client Uplay on startup and minimize it to system tray(similar to Steam and Origin) as soon as it auto-logins and initializes via Ubisoft servers.
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/avimanyu786/20)
+[![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
-This program assumes you have Uplay installed at: "C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher"
+> *Copyright 2018 [Avimanyu Bandyopadhyay](https://avimanyu786.blogspot.in)*
 
-Latest release: https://github.com/avimanyu786/UplayStartupMinimize/releases/latest
+**UplayStartupMinimize** is a free software to help you automatically launch Ubisoft game client Uplay on startup and minimize it to system tray(similar to Steam and Origin) as soon as it auto-logins and initializes via Ubisoft servers.
 
-Test version: https://github.com/avimanyu786/UplayStartupMinimize/releases/tag/v2.0.2_pre-alpha
+**If you enjoy this software, please consider [supporting me](https://www.paypal.me/avimanyu786/20) for developing and maintaining this program.**
 
-All releases: https://github.com/avimanyu786/UplayStartupMinimize/releases
+<p align="center">
+  <a href="https://www.paypal.me/avimanyu786">
+    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
+  </a>
+</p>
 
-VBS versions available at: https://github.com/avimanyu786/UplayStartupMinimize
+## Installation steps
 
-This script basically helps you to launch Uplay on startup and minimize it to system tray as soon as it auto-logins and initializes. USM will always terminate itself once its done its work on startup and is not required to be kept running as a background process.
+### 1. Make sure of the following settings in Uplay:
 
-   *In case you have v1.1.2 or v2.0 installed, please uninstall it before proceeding with the v2.0.1 installation.
+a. "Minimize Uplay to system tray when the application window is closed" should be kept enabled in Uplay's settings.
 
-   1. Make sure of the following settings:
+b. "Launch Uplay when Windows starts" should be kept disabled as we prefer to use this installer for the same instead.
 
-    a. "Minimize Uplay to system tray when the application window is closed" should be kept enabled in Uplay's settings.
+### 2. Run the latest installer.
 
-    b. "Launch Uplay when Windows starts" should be kept disabled as we prefer to use this installer for the same instead.
+This will help you install UplayStartupMinimize in your Windows PC. The latest version of the installer is available [here](https://github.com/avimanyu786/UplayStartupMinimize/releases/latest). 
 
-   2. Now proceed and restart your PC after installation to see it work.
+### 3. Restart your PC to see it work.
 
-   3. It is highly recommended NOT to attempt closing the Uplay launcher window while it loads as Uplay checks for patch updates during the same and updates itself if new Uplay updates are found to have released. Closing the Uplay launcher window while loading would make USM make another attempt to launch Uplay.
+It is highly recommended NOT to attempt closing the Uplay launcher window while it loads as Uplay checks for patch updates during the same and updates itself if new Uplay updates are found to have released. Closing the Uplay launcher window while loading would make USM make another attempt to launch Uplay.
 
-   Optional(NOT recommended for regular use). If you would like to test a different version which attempts to permanently close Uplay in case the launcher window is closed, you can download a pre-alpha version available separately as a standalone executable.
-
-	
-Patch note:
-
-Bug fixed to prevent multiple Uplay instances from launching during startup and script execution.
-
-P.S:
-
-This method works only if Uplay is on display as a foreground running application after Windows startup. If on another window, you simply need to click on it so that it hides itself to the system tray. 
-
-
-Created and tested this myself. Delighted with using it until this feature is officially supported by Uplay. 
-
-~avimanyu786(Avimanyu Bandyopadhyay)
+Optional(NOT recommended for regular use). If you would like to test a different version which attempts to permanently close Uplay in case the launcher window is closed, you can download a pre-alpha version available separately as a standalone executable.
