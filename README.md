@@ -1,13 +1,13 @@
-# UplayStartupMinimize
+# UplayStartupMinimize (USM)
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/avimanyu786/20)
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
 > *Copyright 2018 [Avimanyu Bandyopadhyay](https://raw.githubusercontent.com/avimanyu786/UplayStartupMinimize/master/AUTHORS.txt)*
 
-**UplayStartupMinimize** is a free software to help you automatically launch Ubisoft game client [Uplay](https://uplay.ubi.com/) on startup and minimize it to system tray(similar to Steam and Origin) as soon as it auto-logins and initializes via Ubisoft servers.
+**UplayStartupMinimize (USM)** is a free software to help you automatically launch Ubisoft game client [Uplay](https://uplay.ubi.com/) on startup and minimize it to system tray(similar to Steam and Origin) as soon as it auto-logins and initializes via Ubisoft servers.
 
-**If you enjoy this software, please consider [supporting me](https://www.paypal.me/avimanyu786/20) for developing and maintaining this free tool.**
+**If you enjoy USM, please consider [supporting me](https://www.paypal.me/avimanyu786/20) for developing and maintaining this free software.**
 
 <p align="center">
   <a href="https://www.paypal.me/avimanyu786">
