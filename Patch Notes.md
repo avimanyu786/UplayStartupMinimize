@@ -2,6 +2,10 @@
 
 23-05-2017
 
+1.0
+
+First version
+
 1.01: 
 
 Updated altf4.vbs to UplayToSystemTray.vbs
