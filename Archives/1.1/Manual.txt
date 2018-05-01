@@ -1,0 +1,27 @@
+These scripts basically help you to launch Uplay on startup and minimize it to system tray after 30 seconds(changeable):
+
+   1. Make sure of the following settings:
+
+    a. "Minimize Uplay to system tray when the application window is closed" should be kept enabled in Uplay's settings.
+
+    b. "Launch Uplay when Windows starts" should be kept disabled as we prefer to use the manual method[*].
+
+    c. Ensure you can view file extensions in Windows
+
+  2. Create a shortcut to "Uplay.vbs" and "MinimizeSysTrayWait.vbs" that have just been installed in the Uplay game launcher folder.
+
+  3. Press Windows key+R
+
+  4. Enter "shell:startup" without the quotes in the Run dialog box.
+
+  5. Once you are shown the startup directory, move the shortcuts to the same location.
+
+  6. You're done! Restart and see it work.
+
+P.S:
+
+This method works only if Uplay is on display as a foreground running application after startup. To change the time to take for minimizing it, you can edit the "MinimizeSysTrayWait.bat" file where time is set in milliseconds. Choose a suitable duration which Uplay takes to auto-login, initialize and finally bring up the client window.
+
+In cases when Uplay updates itself after starting up, requiring more time, make sure it doesn't get closed as "ALT+F4" in "UplayToSystemTray.vbs" would still get invoked which would make Uplay exit itself out. To avoid this, just minimize it manually to the taskbar while it updates.
+
+[*]Waiting via MinimizeSysTrayWait.bat separately, as using these lines on the original script no longer works after Uplay got updated with its own startup option: "Launch Uplay when Windows starts" (does not seem to work and still need to keep it unchecked and use the manual way).
