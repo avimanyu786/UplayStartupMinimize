@@ -33,4 +33,4 @@ This will help you install UplayStartupMinimize in your Windows PC. The latest v
 
 It is highly recommended NOT to attempt closing the Uplay launcher window while it loads as Uplay checks for patch updates during the same and updates itself if new Uplay updates are found released. Closing the Uplay launcher window while loading would make USM make another attempt to launch Uplay.
 
-Optional(NOT recommended for regular use). If you would like to test a different version which attempts to permanently close Uplay in case the launcher window is closed, you can download a pre-alpha version available separately as a standalone executable.
+Optional(NOT recommended for regular use). If you would like to test a different version which attempts to permanently close Uplay in case the launcher window is closed, you can download a [pre-alpha version](https://github.com/avimanyu786/UplayStartupMinimize/releases/tag/v2.0.2_pre-alpha) available separately as a standalone executable.
