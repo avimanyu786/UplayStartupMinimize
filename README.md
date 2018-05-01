@@ -1,5 +1,7 @@
 # UplayStartupMinimize (USM)
 
+#### **[Download Latest Installer (v2.0.1)](https://github.com/avimanyu786/UplayStartupMinimize/releases/download/v2.0.1/UplayStartupMinimize_v2.0.1_Installer.exe)**   |   **[All Releases](https://github.com/avimanyu786/UplayStartupMinimize/releases)**   |   **[USM Wiki](https://github.com/avimanyu786/UplayStartupMinimize/wiki)**
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/avimanyu786/20)
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
@@ -7,20 +9,17 @@
 
 **UplayStartupMinimize (USM)** is a free and open source software to help you automatically launch Ubisoft game client [Uplay](https://uplay.ubi.com/) on Windows startup and minimize it to system tray(similar to [Steam](https://store.steampowered.com/about/) and [Origin](https://www.origin.com/ind/en-us/store/download)) as soon as it auto-logins and initializes via Ubisoft servers. USM will always terminate itself once its done its work and is not required to be kept running as a background process.
 
-#### **[Download Latest Installer (v2.0.1)](https://github.com/avimanyu786/UplayStartupMinimize/releases/download/v2.0.1/UplayStartupMinimize_v2.0.1_Installer.exe)**
-
-#### **[All Releases](https://github.com/avimanyu786/UplayStartupMinimize/releases)**
-
-#### **[USM Wiki](https://github.com/avimanyu786/UplayStartupMinimize/wiki)** 
-
-
 **If you enjoy USM, please consider [supporting me](https://www.paypal.me/avimanyu786/20) for developing and maintaining this software.**
-
 <p align="center">
   <a href="https://www.paypal.me/avimanyu786">
     <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
   </a>
 </p>
+ 
+[![Alt FOSS](https://img.youtube.com/vi/Ag1AKIl_2GM/0.jpg)](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
+
+
+
 
 ## Installation steps
 
