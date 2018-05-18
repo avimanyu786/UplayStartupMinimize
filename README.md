@@ -1,13 +1,13 @@
 # UplayStartupMinimize (USM)
 
-#### **[Download Latest Installer (v2.0.1)](https://github.com/avimanyu786/UplayStartupMinimize/releases/download/v2.0.1/UplayStartupMinimize_v2.0.1_Installer.exe)**   |   **[All Releases](https://github.com/avimanyu786/UplayStartupMinimize/releases)**   |   **[USM Wiki](https://github.com/avimanyu786/UplayStartupMinimize/wiki)**
+#### **[Download Latest Installer (v2.1.1)](https://github.com/avimanyu786/UplayStartupMinimize/releases/download/v2.1.1/UplayStartupMinimize_v2.1.1_Installer.exe)**   |   **[All Releases](https://github.com/avimanyu786/UplayStartupMinimize/releases)**   |   **[USM Wiki](https://github.com/avimanyu786/UplayStartupMinimize/wiki)**
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/avimanyu786/20)
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
 > *Copyright 2018 [Avimanyu Bandyopadhyay](https://raw.githubusercontent.com/avimanyu786/UplayStartupMinimize/master/AUTHORS.txt)*
 
-**UplayStartupMinimize (USM)** is a Free and Open Source Software to help you automatically launch Ubisoft game client [Uplay](https://uplay.ubi.com/) on Windows startup and minimize it to system tray(similar to [Steam](https://store.steampowered.com/about/) and [Origin](https://www.origin.com/ind/en-us/store/download)) as soon as it auto-logins and initializes via Ubisoft servers. USM will always terminate itself once its done its work and is not required to be kept running as a background process.
+**UplayStartupMinimize (USM)** is a Free and Open Source Software to help you automatically launch Ubisoft game client [Uplay](https://uplay.ubi.com/) on Windows startup and minimize it to system tray(similar to [Steam](https://store.steampowered.com/about/) and [Origin](https://www.origin.com/ind/en-us/store/download)) as soon as it auto-logins and initializes via Ubisoft servers. USM has an auto-update feature. It will always terminate itself once its done its work and is not required to be kept running as a background process.
 
 **If you enjoy USM, please consider [supporting me](https://www.paypal.me/avimanyu786/20) for developing and maintaining this software.**
 <p align="center">
