@@ -49,4 +49,16 @@ Prevent multiple Uplay instances from launching during startup and script execut
 
 All Versions:
 
-Licensed under GPL v3.0 
+Licensed under GPL v3.0
+
+18-05-2018
+
+2.1.0
+
+Bug Fixed when Uplay would not launch after update.
+
+19-05-2018
+
+2.1.1
+
+Introduced USM Auto-Update Feature after Uplay update.
