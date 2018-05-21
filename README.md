@@ -34,7 +34,7 @@ b. "Launch Uplay when Windows starts" should be kept disabled as we prefer to us
 
 It is highly recommended NOT to attempt closing the Uplay launcher window while it loads as Uplay checks for patch updates during the same and updates itself if new Uplay updates are found released. Closing the Uplay launcher window while loading would make USM make another attempt to launch Uplay.
 
-Optional(NOT recommended for regular use). If you would like to test a different version which attempts to permanently close Uplay in case the launcher window is closed during loading, you can download a [pre-alpha version](https://raw.githubusercontent.com/avimanyu786/UplayStartupMinimize/master/USM_v2.0.2_pre-alpha.vbs) available separately as a standalone executable.
+Optional(NOT recommended for regular use). If you would like to test a different version which attempts to permanently close Uplay in case the launcher window is closed during loading, you can download a [pre-alpha version](https://github.com/avimanyu786/UplayStartupMinimize/releases/download/v2.0.2_pre-alpha2/USM_v2.0.2_pre-alpha2.vbs) available separately as a standalone executable.
 
 The software that was used to create the USM Installer is called [Inno Setup Compiler](http://www.jrsoftware.org/isinfo.php) which is also [Open Source on GitHub](https://github.com/jrsoftware/issrc).
 
