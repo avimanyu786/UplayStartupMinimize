@@ -30,8 +30,6 @@ b. "Launch Uplay when Windows starts" should be kept disabled as we prefer to us
 
 ### 2. Run the latest installer.
 
-This will help you install UplayStartupMinimize in your Windows PC. The latest version of the installer is available [here](https://github.com/avimanyu786/UplayStartupMinimize/releases/latest). 
-
 ### 3. Restart your PC to see it work.
 
 It is highly recommended NOT to attempt closing the Uplay launcher window while it loads as Uplay checks for patch updates during the same and updates itself if new Uplay updates are found released. Closing the Uplay launcher window while loading would make USM make another attempt to launch Uplay.
