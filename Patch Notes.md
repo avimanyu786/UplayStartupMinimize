@@ -57,18 +57,18 @@ Licensed under GPL v3.0
 
 18-05-2018
 
-2.1.0
+2.1.0:
 
 Bug Fixed when Uplay would not launch after update.
 
 19-05-2018
 
-2.1.1
+2.1.1:
 
 Introduced USM Auto-Update Feature after Uplay update.
 
 21-05-2018
 
-2.0.2 Pre-Alpha2
+2.0.2 Pre-Alpha2:
 
 Updated via v2.1.0
