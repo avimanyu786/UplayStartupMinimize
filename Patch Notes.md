@@ -45,6 +45,10 @@ Bug fix:
 
 Prevent multiple Uplay instances from launching during startup and script execution.
 
+2.0.2 Pre-Alpha:
+
+Test a different version which attempts to permanently close Uplay in case the launcher window is closed during loading.
+
 01-05-2018
 
 All Versions:
@@ -62,3 +66,9 @@ Bug Fixed when Uplay would not launch after update.
 2.1.1
 
 Introduced USM Auto-Update Feature after Uplay update.
+
+21-05-2018
+
+2.0.2 Pre-Alpha2
+
+Updated via v2.1.0
