@@ -72,3 +72,9 @@ Introduced USM Auto-Update Feature after Uplay update.
 2.0.2 Pre-Alpha2:
 
 Updated via v2.1.0
+
+26-05-2018
+
+2.1.2:
+
+Brought back "Click to Minimize" feature that got inadvertently removed in a previous update.
