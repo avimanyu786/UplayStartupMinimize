@@ -1,6 +1,6 @@
 # UplayStartupMinimize (USM)
 
-#### **[Download Latest Installer (v2.1.1)](https://github.com/avimanyu786/UplayStartupMinimize/releases/download/v2.1.1/UplayStartupMinimize_v2.1.1_Installer.exe)**   |   **[All Releases](https://github.com/avimanyu786/UplayStartupMinimize/releases)**   |   **[USM Wiki](https://github.com/avimanyu786/UplayStartupMinimize/wiki)**
+#### **[Download Latest Installer (v2.1.2)](https://github.com/avimanyu786/UplayStartupMinimize/releases/download/v2.1.2/UplayStartupMinimize_v2.1.2_Installer.exe)**   |   **[All Releases](https://github.com/avimanyu786/UplayStartupMinimize/releases)**   |   **[USM Wiki](https://github.com/avimanyu786/UplayStartupMinimize/wiki)**
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/avimanyu786/20)
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
