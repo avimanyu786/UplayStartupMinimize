@@ -36,7 +36,7 @@ It is highly recommended NOT to attempt closing the Uplay launcher window while 
 
 Optional(NOT recommended for regular use). If you would like to test a different version which attempts to permanently close Uplay in case the launcher window is closed during loading, you can download a [pre-alpha version](https://github.com/avimanyu786/UplayStartupMinimize/releases/download/v2.0.2_pre-alpha2/USM_v2.0.2_pre-alpha2.vbs) available separately as a standalone executable.
 
-The software that was used to create the USM Installer is called [Inno Setup Compiler](http://www.jrsoftware.org/isinfo.php) which is also [Open Source on GitHub](https://github.com/jrsoftware/issrc).
+The software that was used to create the USM Installer is called "Inno Setup Compiler" which is also [Open Source on GitHub](https://github.com/jrsoftware/issrc).
 
 #### Social Media:
 
@@ -52,15 +52,15 @@ The software that was used to create the USM Installer is called [Inno Setup Com
 
 <!-- icons with padding -->
 
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[2.1]: https://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 
 <!-- icons without padding -->
 
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+[2.2]: https://i.imgur.com/fep1WsG.png (facebook icon without padding)
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[2]: http://www.facebook.com/UplayStartupMinimize
+[2]: https://www.facebook.com/UplayStartupMinimize
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
