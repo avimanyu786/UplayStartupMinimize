@@ -78,7 +78,7 @@ Else
 			
 			End If
 
-				WScript.Sleep 10000
+			WScript.Sleep 10000
 		End If
 	
 	End Sub
