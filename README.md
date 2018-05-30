@@ -1,6 +1,6 @@
 # UplayStartupMinimize (USM)
 
-#### **[Download Latest Installer (v2.1.2)](https://github.com/avimanyu786/UplayStartupMinimize/releases/download/v2.1.2/UplayStartupMinimize_v2.1.2_Installer.exe)**   |   **[All Releases](https://github.com/avimanyu786/UplayStartupMinimize/releases)**   |   **[USM Wiki](https://github.com/avimanyu786/UplayStartupMinimize/wiki)**
+#### **[Download Latest Installer (v3.0)](https://github.com/avimanyu786/UplayStartupMinimize/releases/download/v3.0/UplayStartupMinimize_v3.0_Final_Installer.exe)**   |   **[All Releases](https://github.com/avimanyu786/UplayStartupMinimize/releases)**   |   **[USM Wiki](https://github.com/avimanyu786/UplayStartupMinimize/wiki)**
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/avimanyu786/20)
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
@@ -32,11 +32,9 @@ b. "Launch Uplay when Windows starts" should be kept disabled as we prefer to us
 
 ### 3. Restart your PC to see it work.
 
-It is highly recommended NOT to attempt closing the Uplay launcher window while it loads as Uplay checks for patch updates during the same and updates itself if new Uplay updates are found released. Closing the Uplay launcher window while loading would make USM make another attempt to launch Uplay.
+The software that was used to create the USM Installer is called "Inno Setup Compiler" which is also [Open Source on GitHub](https://github.com/jrsoftware/issrc) that adds USM to Windows' user startup via:
 
-Optional(NOT recommended for regular use). If you would like to test a different version which attempts to permanently close Uplay in case the launcher window is closed during loading, you can download a [pre-alpha version](https://github.com/avimanyu786/UplayStartupMinimize/releases/download/v2.0.2_pre-alpha2/USM_v2.0.2_pre-alpha2.vbs) available separately as a standalone executable.
-
-The software that was used to create the USM Installer is called "Inno Setup Compiler" which is also [Open Source on GitHub](https://github.com/jrsoftware/issrc).
+Name: "{userstartup}\UplayStartupMinimize"; Filename: "{app}\USM.vbs"; WorkingDir: "{app}"
 
 #### Social Media:
 
