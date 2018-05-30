@@ -8,7 +8,7 @@
 
 > *Copyright 2018 [Avimanyu Bandyopadhyay](https://raw.githubusercontent.com/avimanyu786/UplayStartupMinimize/master/AUTHORS.txt)*
 
-**UplayStartupMinimize (USM)** is a Free and Open Source Software to help you automatically launch Ubisoft game client [Uplay](https://uplay.ubi.com/) on Windows startup and minimize it to system tray(similar to [Steam](https://store.steampowered.com/about/) and [Origin](https://www.origin.com/ind/en-us/store/download)) as soon as it auto-logins and initializes via Ubisoft servers. USM has an auto-update feature. It will always terminate itself once its done its work and is not required to be kept running as a background process.
+**UplayStartupMinimize (USM)** is a Free and Open Source Software to help you automatically launch Ubisoft game client [Uplay](https://uplay.ubi.com/) on Windows startup and minimize it to system tray(similar to [Steam](https://store.steampowered.com/about/) and [Origin](https://www.origin.com/ind/en-us/store/download)) as soon as it auto-logins and initializes via Ubisoft servers. Based on a workaround suggested at: https://bit.ly/2LJUvCK. v3.0 is the final version of UplayStartupMinimize. It will always terminate itself once its done its work and is not required to be kept running as a background process.
 
 **If you enjoy USM, please consider [supporting me](https://www.paypal.me/avimanyu786/20) for developing and maintaining this software.**
 <p align="center">
