@@ -78,3 +78,11 @@ Updated via v2.1.0
 2.1.2:
 
 Brought back "Click to Minimize" feature that got inadvertently removed in a previous update.
+
+30-05-2018
+
+3.0:
+
+Final update to USM
+
+Uses Uplay's own silent launch feature on Windows startup
