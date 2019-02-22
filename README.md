@@ -2,7 +2,6 @@
 
 #### **[Download Final Installer (v3.0)](https://github.com/avimanyu786/UplayStartupMinimize/releases/download/v3.0/UplayStartupMinimize_v3.0_Final_Installer.exe)**   |   **[All Releases](https://github.com/avimanyu786/UplayStartupMinimize/releases)**   |   **[USM Wiki](https://github.com/avimanyu786/UplayStartupMinimize/wiki)**
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/avimanyu786)
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
 > *Copyright 2018 [Avimanyu Bandyopadhyay](https://raw.githubusercontent.com/avimanyu786/UplayStartupMinimize/master/AUTHORS.txt)*
