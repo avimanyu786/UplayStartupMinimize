@@ -1,4 +1,4 @@
-' UplayStartupMinimize v2.1.2 -  To launch Ubisoft game client Uplay on 
+' UplayStartupMinimize v2.1.3 -  To launch Ubisoft game client Uplay on 
 ' startup and minimize it to system tray(similar to Steam and Origin) 
 ' as soon as it auto-logins and initializes via Ubisoft servers. It also 
 ' has an Auto-Update Feature
