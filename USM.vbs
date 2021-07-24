@@ -18,7 +18,7 @@
 ' You should have received a copy of the GNU General Public License
 ' along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-If WScript.Arguments.length =0 Then
+If WScript.Arguments.length = 0 Then
 	Set objShell = CreateObject("Shell.Application")
 	objShell.ShellExecute "wscript.exe", Chr(34) & _
 	WScript.ScriptFullName & Chr(34) & " uac", "", "runas", 1
