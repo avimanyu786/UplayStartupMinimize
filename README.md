@@ -16,7 +16,7 @@
 
 a. "Minimize Uplay to system tray when the application window is closed" has to be kept enabled in Uplay's settings.
 
-b. "Launch Uplay when Windows starts" should be kept disabled as we prefer to use this installer for the same instead.
+b. "Launch Uplay when Windows starts" should be kept enabled.
 
 ### 2. Run the latest installer.
 
