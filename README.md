@@ -1,12 +1,12 @@
 # UplayStartupMinimize (USM)
 
-#### **[Download USM Installer (v2.1.2)](https://github.com/avimanyu786/UplayStartupMinimize/releases/download/v2.1.2/UplayStartupMinimize_v2.1.2_Installer.exe)**   |   **[All Releases](https://github.com/avimanyu786/UplayStartupMinimize/releases)**   |   **[USM Wiki](https://github.com/avimanyu786/UplayStartupMinimize/wiki)**
+#### **[Download USM Installer (v2.1.3)](https://github.com/avimanyu786/UplayStartupMinimize/releases/download/v2.1.3/UplayStartupMinimize_v2.1.3_Installer.exe)**   |   **[All Releases](https://github.com/avimanyu786/UplayStartupMinimize/releases)**   |   **[USM Wiki](https://github.com/avimanyu786/UplayStartupMinimize/wiki)**
 
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
 > *Copyright 2018-21 [Avimanyu Bandyopadhyay](https://raw.githubusercontent.com/avimanyu786/UplayStartupMinimize/master/AUTHORS.txt)*
 
-**UplayStartupMinimize (USM)** is a Free and Open Source Software to help you automatically launch Ubisoft game client [Uplay](https://uplay.ubi.com/) on Windows startup and minimize it to system tray(similar to [Steam](https://store.steampowered.com/about/) and [Origin](https://www.origin.com/ind/en-us/store/download)) as soon as it auto-logins and initializes via Ubisoft servers. USM has an auto-update feature that fetches its most recent version whenever Ubisoft Connect receives an update. It will always terminate itself once it has done its work and is not required to be kept running as a background process.
+**UplayStartupMinimize (USM)** is a Free and Open Source Software to help you automatically launch Ubisoft game client [Ubisoft Connect](https://ubisoftconnect.com/)(formerly Uplay) on Windows startup and minimize it to system tray(similar to [Steam](https://store.steampowered.com/about/) and [Origin](https://www.origin.com/ind/en-us/store/download)) as soon as it auto-updates and initializes via Ubisoft servers. USM has an auto-update feature that fetches its most recent version whenever Ubisoft Connect receives an update. It will always terminate itself once it has done its work and is not required to be kept running as a background process.
 
 **Update**: Reverted to v2.1.3 from v3.0 since Ubisoft Connect's(formerly Uplay) own silent launch feature on Windows startup does not work when it gets auto-updated.
 
