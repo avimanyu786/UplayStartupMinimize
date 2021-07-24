@@ -53,16 +53,20 @@ Else
 		set objFSO = CreateObject("Scripting.FileSystemObject")
 		set upcFile = objFSO.GetFile(UPC)
 
-		If count = 1 And detectUplay = False Then
-			WScript.Quit 
-		End If
-
-		If count = 4 And detectUplay = True Then
-			WshShell.SendKeys "%{F4}"
-		End If
 
 		If FormatDateTime(upcFile.DateLastModified, vbShortDate) = UplayUpdateDay Then
+					
+			If count = 0 Then
+				WScript.Sleep 106
+			End If
 			
+			If count = 4 And detectUplay = True Then
+				WshShell.SendKeys "%{F4}"
+			ElseIf count = 1 Then
+				WScript.Quit
+			End If
+
+
 			WshShell.CurrentDirectory = "C:\Program Files (x86)\UplayStartupMinimize"
 			
 			USMUpdateDay = FormatDateTime(Date, vbShortDate)
@@ -75,8 +79,10 @@ Else
 				USMDownload "https://github.com/avimanyu786/UplayStartupMinimize/releases/download/latest/USM.vbs"
 			
 			End If
+			
 
-			WScript.Sleep 10000
+		Else
+			WScript.Quit
 		End If
 	
 	End Sub
